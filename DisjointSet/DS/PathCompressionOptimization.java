@@ -1,4 +1,4 @@
-package DSImplementation;
+package DS;
 
 /*
  * For the find, union, and connected operations (the latter two operations both depend on the find operation), 
